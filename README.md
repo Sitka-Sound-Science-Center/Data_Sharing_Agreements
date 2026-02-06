@@ -1,5 +1,5 @@
 # Data Sharing Agreements: The Foundation for a Research Partnership
-Repository for data sharing agreements and white papers created by the Sitka Sound Science Center for partners in research and education. Please contact research@sitkascience.org if you are interested in collaborating.
+Repository for data sharing agreements and white papers created by the Sitka Sound Science Center for partners in research and education.
 
 
 ### Contact
